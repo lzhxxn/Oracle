@@ -1,0 +1,14 @@
+"\\192.168.0.136\SOO\Oracle"
+다운 받기!!  
+
+
+
+(1) 방법1: google 검색 
+oracle 11g 64bit download
+
+(2) 방법2: url 
+https://www.oracle.com/technetwork/database/enterprise-edition/downloads/112010-win64soft-094461.html
+
+
+cf) 설치 ( Windows10 )
+https://dzzienki.tistory.com/13
